@@ -50,7 +50,7 @@ Para executar a aplicação localmente, siga estas etapas:
 4. Importe o projeto utilizando o Maven em uma IDE de sua preferência. 
 5. Configure o MySQL atualizando as configurações no arquivo application.properties.
 6. Execute a classe ForumApiApplication.java.
-7. Entre na documentação acessando http://localhost:8080/swagger-ui/index.html no navegador.
+7. Entre na documentação acessando http://localhost:8084/ggonzales-ui/index.html no navegador.
 8. Gere um token no autenticacao-controller /login passando no corpo da requisição o seguinte json:</br>
     {
     "email": "teste@email.com",
